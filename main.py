@@ -1,4 +1,3 @@
-#йоу
 from random import randint, shuffle
 from names import names
 from cards import Player, Card, Deck
